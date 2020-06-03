@@ -1,5 +1,5 @@
 # rayshader_HK_3D_map
-*<b>Created by cyda - Yeung Wong & Carrie Lo</b>*
+*<b>Created by cyda - Carrie Lo & Yeung Wong</b>*
 ![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
 
 ---------------------------------------------------------------------------------------------
@@ -8,8 +8,8 @@
 ### If you find this script is helpful, please feel free to endorse us through Linkedin!
 Linkedin:
 
-* Yeung Wong - *https://www.linkedin.com/in/yeungwong/*
 * Carrie Lo - *https://www.linkedin.com/in/carrielsc/*
+* Yeung Wong - *https://www.linkedin.com/in/yeungwong/*
 ---------------------------------------------------------------------------------------------
 ## Project Description
 Using rayshader to generate 3D plot using Hong Kong map
