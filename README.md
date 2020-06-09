@@ -14,7 +14,7 @@ Linkedin:
 ## Project Description
 This project is to visualize Hong Kong housing price in 3D plot.
 
-[![YouTube](http://img.youtube.com/vi/qgVW-2UJZrY/0.jpg)](https://www.youtube.com/watch?v=qgVW-2UJZrY)
+[![YouTube](https://1.bp.blogspot.com/-X71OGd9ULno/Xt-MOSTIjDI/AAAAAAAAAG8/kvN-jeaTQHUcTxyDAKX1SaKXciQ-EEDiwCLcBGAsYHQ/s1600/Cover.jpg)](https://www.youtube.com/watch?v=qgVW-2UJZrY)
 
 ## Project Details
 To check the tutorial article, please click [here](https://towardsdatascience.com/introducing-3d-ggplots-with-rayshader-r-c61e27c6f0e9?source=friends_link&sk=211866db685b04d913e760d6f67d9ec2).
