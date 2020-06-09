@@ -1,3 +1,6 @@
+# Hong Kong Properties Price Distribution
+*<b>Created by cyda - Carrie Lo & Yeung Wong</b>*
+![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
 
 ---------------------------------------------------------------------------------------------
 ### Please acknowledge <b>team cyda - Carrie Lo and Yeung Wong</b> when using the code
