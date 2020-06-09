@@ -25,6 +25,7 @@ To learn how to generate a 3D map plot with rayshader, please see the R script [
 
 ## Demonstration
 Example of 3D Plot
+
 ![alt text](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/Output/output1.gif)
 
 ![alt text](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/Output/output2.gif)
