@@ -19,13 +19,12 @@ To check the tutorial article, please click [here](https://towardsdatascience.co
 
 The package used is "rayshader". Rayshader is an open source package for producing 2D and 3D data visualizations in R which uses elevation data in a base R matrix and a combination of raytracing, spherical texture mapping, overlays, and ambient occlusion to generate beautiful topographic 2D and 3D maps. To know more about the package, you can refer to the docunment [here](https://www.rayshader.com/).
 
-Data were downloaded from [census population statistics](https://www.censtatd.gov.hk/hkstat/sub/sp150.jsp?productCode=B1130301) released from Hong Kong Government and scraped from [Hong Kong Property](https://app2.hkp.com.hk/tx/default.jsp?lang=zh%27). The pre-processed data are [Population Data.xlsx](https://github.com/cydalytics/rayshader_HK_3D_map/blob/master/Population%20Data.xlsx) and [real_estate_master_df.csv](https://github.com/cydalytics/rayshader_HK_3D_map/blob/master/real_estate_master_df.csv).
+Data were downloaded from [census population statistics](https://www.censtatd.gov.hk/hkstat/sub/sp150.jsp?productCode=B1130301) released from Hong Kong Government and scraped from [Hong Kong Property](https://app2.hkp.com.hk/tx/default.jsp?lang=zh%27). The pre-processed data are [Population Data.xlsx](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/Population%20Data.xlsx) and [real_estate_master_df.csv](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/real_estate_master_df.csv).
 
-To learn how to generate a 3D map plot with rayshader, please see the R script [here](https://github.com/cydalytics/rayshader_HK_3D_map/blob/master/Demo%20-%20Generate%20a%203D%20map%20plot%20with%20rayshader.R).
+To learn how to generate a 3D map plot with rayshader, please see the R script [here](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/HK_Properties_Price_Distribution.R).
 
 ## Demonstration
 Example of 3D Plot
-![alt text](https://miro.medium.com/max/1400/1*ylgrDDCbMOpg1Uk8VabvAw.gif)
+![alt text](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/Output/output1.gif)
 
-Result Dataframe
-![alt text](https://miro.medium.com/max/2000/1*kvBUrz4tgRxQQVZV2oCz4Q.jpeg)
+![alt text](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/Output/output2.gif)
